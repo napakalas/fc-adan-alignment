@@ -1,0 +1,10 @@
+They work with nodes to encode the connections, so I have just written a quick algorithm to create columns '[15] input vessels' and '[16] output vessels' from the nodal connections to be consistent with what we had before. Let me know if there are any issues with this.
+
+The vessel naming convention is
+
+{Vessel_type}_{vessel_name}_{organ_or_tissue_region}_T{Unknown number}_{Left or right, L/R}_{vessel_number}
+
+The organ or tissue region is perfect for us because it tells us directly what organ or tissue region (we can correspond this to what muscles later) the vessels lead to. These regions are specified in the attached paper with volumes and blood flow fractions. This will allow us to validate the calibrated model that we create with the blood flow fraction.
+
+{vessel_type} is A for artery, P for perforator, T for ??? (maybe arteriole, but they seem to be pre perforators or perforators), V for venous. You might want to ignore the venous system initially. 
+

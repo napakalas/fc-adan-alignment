@@ -1,0 +1,3213 @@
+{
+    "Femoral vein": [
+        {
+            "Veins": "Femoral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External iliac vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "Top in the group of Femoral vein. The femoral vein drains into the external iliac vein."
+        },
+        {
+            "Veins": "Femoral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External iliac vein",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "Top in the group of Femoral vein. The femoral vein drains into the external iliac vein."
+        }
+    ],
+    "Lateral circumflex femoral veins": [
+        {
+            "Veins": "Lateral circumflex femoral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": [
+				"Gluteus Maximus",
+				"Sartorius",
+				"Rectus femoris",
+				"Vastus lateralis",
+				"Vastus intermedius",
+				"Vastus medialis",
+				"Tensor fasciae latae",
+				"Gluteus medius",
+				"Gluteus minimus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Lateral circumflex femoral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": [
+				"Gluteus Maximus",
+				"Sartorius",
+				"Rectus femoris",
+				"Vastus lateralis",
+				"Vastus intermedius",
+				"Vastus medialis",
+				"Tensor fasciae latae",
+				"Gluteus medius",
+				"Gluteus minimus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+	    "Great saphenous vein": [
+        {
+            "Veins": "Great saphneous vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Great saphenous vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "nan",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+        }
+    ],
+    "Superficial epigastric vein": [
+        {
+            "Veins": "Superficial epigastric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Great saphneous vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Superficial epigastric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Great saphneous vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "External pudendal veins": [
+        {
+            "Veins": "External pudendal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Great saphneous vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "External pudendal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Great saphneous vein",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Superficial dorsal veins of penis": [
+        {
+            "Veins": "Superficial dorsal veins of penis",
+            "Ontology ID": "nan",
+            "Parent vein": "External pudendal veins",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Medial circumflex femoral veins": [
+        {
+            "Veins": "Medial circumflex femoral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": [
+				"Semitendinosus",
+				"Gracilis",
+				"Pectineus",
+				"Adductor brevis",
+				"Adductor longus",
+				"Adductor magnus",
+				"Adductor minimus",
+				"Obturator externus",
+				"Inferior gemellus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Medial circumflex femoral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": [
+				"Semitendinosus",
+				"Gracilis",
+				"Pectineus",
+				"Adductor brevis",
+				"Adductor longus",
+				"Adductor magnus",
+				"Adductor minimus",
+				"Obturator externus",
+				"Inferior gemellus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Deep femoral vein": [
+        {
+            "Veins": "Deep femoral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Deep femoral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Perforating veins": [
+        {
+            "Veins": "Perforating veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Deep femoral vein",
+            "Target FTU": [
+				"Long head of biceps femoris",
+				"Short head of biceps femoris",
+				"Semitendinosus",
+				"Semimembranosus",
+				"Adductor brevis",
+				"Adductor longus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Perforating veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Deep femoral vein",
+            "Target FTU": [
+				"Long head of biceps femoris",
+				"Short head of biceps femoris",
+				"Semitendinosus",
+				"Semimembranosus",
+				"Adductor brevis",
+				"Adductor longus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Popliteal vein": [
+        {
+            "Veins": "Popliteal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Popliteal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Femoral vein",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+	    "Anterior tibial veins": [
+        {
+            "Veins": "Anterior tibial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Extensor hallucis brevis",
+				"Opponens digit minimi of foot",
+				"Tibialis anterior",
+				"Extensor hallucis longus",
+				"Extensor digitorum longus",
+				"Fibularis tertius"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Anterior tibial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Extensor hallucis brevis",
+				"Opponens digit minimi of foot",
+				"Tibialis anterior",
+				"Extensor hallucis longus",
+				"Extensor digitorum longus",
+				"Fibularis tertius"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Posterior tibial veins": [
+        {
+            "Veins": "Posterior tibial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Quadratus plantae",
+				"Adductor hallucis",
+				"Flexor digitorum longus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Posterior tibial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Quadratus plantae",
+				"Adductor hallucis",
+				"Flexor digitorum longus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Fibular veins": [
+        {
+            "Veins": "Fibular veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Extensor digitorum brevis",
+				"Soleus",
+				"Popliteus",
+				"Flexor hallucis longus",
+				"Tibialis posterior",
+				"Fibularis longus",
+				"Fibularis brevis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Fibular veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Extensor digitorum brevis",
+				"Soleus",
+				"Popliteus",
+				"Flexor hallucis longus",
+				"Tibialis posterior",
+				"Fibularis longus",
+				"Fibularis brevis"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Medial plantar veins": [
+        {
+            "Veins": "Medial plantar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Medial plantar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Lateral plantar veins": [
+        {
+            "Veins": "Lateral plantar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis",
+				"Flexor digiti minimi of foot"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Lateral plantar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Posterior tibial veins",
+            "Target FTU": [
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis",
+				"Flexor digiti minimi of foot"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Plantar venous arch": [
+        {
+            "Veins": "Plantar venous arch",
+            "Ontology ID": "nan",
+            "Parent vein": "Lateral plantar veins",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Plantar venous arch",
+            "Ontology ID": "nan",
+            "Parent vein": "Lateral plantar veins",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Plantar metatarsal veins": [
+        {
+            "Veins": "Plantar metatarsal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Plantar venous arch",
+            "Target FTU": [
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Plantar metatarsal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Plantar venous arch",
+            "Target FTU": [
+				"Oblique head of adductor hallucis",
+				"Transverse head of adductor hallucis"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Plantar digital veins": [
+        {
+            "Veins": "Plantar digital veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Plantar metatarsal veins",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Abductor digiti minimi of foot",
+				"Medial head of flexor hallucis brevis",
+				"Lateral head of flexor hallucis brevis",
+				"Lumbrical muscles of foot",
+				"Adductor hallucis",
+				"Plantar interossei muscles"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Plantar digital veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Plantar metatarsal veins",
+            "Target FTU": [
+				"Flexor digitorum brevis",
+				"Abductor digiti minimi of foot",
+				"Medial head of flexor hallucis brevis",
+				"Lateral head of flexor hallucis brevis",
+				"Lumbrical muscles of foot",
+				"Adductor hallucis",
+				"Plantar interossei muscles"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Small saphenous vein": [
+        {
+            "Veins": "Small saphenous vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Lateral head of gastrocnemius",
+				"Medial head of gastrocnemius"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Small saphenous vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Medial head of gastrocnemius",
+				"Medial head of gastrocnemius"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Dorsal venous arch of foot": [
+        {
+            "Veins": "Dorsal venous arch of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Small saphenous vein",
+            "Target FTU": "Opponens digit minimi of foot",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Dorsal venous arch of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Small saphenous vein",
+            "Target FTU": "Opponens digit minimi of foot",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Intercapitular veins of foot": [
+        {
+            "Veins": "Intercapitular veins of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous arch of foot",
+            "Target FTU": [
+				"Lumbrical muscles of foot",
+				"Plantar interossei muscles"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Intercapitular veins of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous arch of foot",
+            "Target FTU": [
+				"Lumbrical muscles of foot",
+				"Plantar interossei muscles"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Dorsal metatarsal veins": [
+        {
+            "Veins": "Dorsal metatarsal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous arch of foot",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Dorsal metatarsal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous arch of foot",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Dorsal digital veins of foot": [
+        {
+            "Veins": "Dorsal digital veins of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal metatarsal veins",
+            "Target FTU": [
+				"Dorsal interossei muscles of foot",
+				"Lumbrical muscles of foot",
+				"Fibularis tertius"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        },
+        {
+            "Veins": "Dorsal digital veins of foot",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal metatarsal veins",
+            "Target FTU": [
+				"Dorsal interossei muscles of foot",
+				"Lumbrical muscles of foot",
+				"Fibularis tertius"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        }
+    ],
+    "Genicular vein": [
+        {
+            "Veins": "Genicular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Vastus medialis",
+				"Medial patellar",
+				"Lateral patellar",
+				"Plantaris"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Genicular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Popliteal vein",
+            "Target FTU": [
+				"Vastus medialis",
+				"Medial patellar",
+				"Lateral patellar",
+				"Plantaris"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Inferior vena cava (thoracic part)": [
+        {
+            "Veins": "Inferior vena cava (thoracic part)",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "Top in the group of Inferior vena cava (thoracic part). It drains blood into the right atrium of the heart."
+        }
+    ],
+    "Inferior vena cava (abdominal part)": [
+        {
+            "Veins": "Inferior vena cava (abdominal part)",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (thoracic part)",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Left renal vein": [
+        {
+            "Veins": "Left renal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Intrarenal veins of left kidney": [
+        {
+            "Veins": "Intrarenal veins of left kidney",
+            "Ontology ID": "nan",
+            "Parent vein": "Left renal vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Left testicular vein": [
+        {
+            "Veins": "Left testicular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Left renal vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Right renal vein": [
+        {
+            "Veins": "Right renal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Intrarenal veins of right kidney": [
+        {
+            "Veins": "Intrarenal veins of right kidney",
+            "Ontology ID": "nan",
+            "Parent vein": "Right renal vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Right testicular vein": [
+        {
+            "Veins": "Right testicular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": "gold diamond",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Lumbar veins": [
+        {
+            "Veins": "Lumbar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": [
+				"Iliocostalis lumborum",
+				"Intertransversarii",
+				"Multifidus lumborum",
+				"Multifidus thoracis",
+				"Rotatores",
+				"Interspinales lumborum",
+				"Dorsal parts of lateral intertransversarii lumborum",
+				"Ventral parts of lateral intertransversarii lumboru",
+				"Quadratus lumborum",
+				"Psoas major",
+				"Psoas minor"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Lumbar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": [
+				"Iliocostalis lumborum",
+				"Intertransversarii",
+				"Multifidus lumborum",
+				"Multifidus thoracis",
+				"Rotatores",
+				"Interspinales lumborum",
+				"Dorsal parts of lateral intertransversarii lumborum",
+				"Ventral parts of lateral intertransversarii lumboru",
+				"Quadratus lumborum",
+				"Psoas major",
+				"Psoas minor"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Common iliac vein": [
+        {
+            "Veins": "Common iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Common iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "Target FTU": "NA",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Iliolumbar vein": [
+        {
+            "Veins": "Iliolumbar vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": [
+				"Quadratus lumborum",
+				"Psoas major",
+				"Iliacus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Iliolumbar vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": [
+				"Quadratus lumborum",
+				"Psoas major",
+				"Iliacus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Internal iliac vein": [
+        {
+            "Veins": "Internal iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": [
+				"Gracilis",
+				"Adductor brevis",
+				"Adductor longus",
+				"Obturator externus",
+				"Obturator internus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"	
+        },
+        {
+            "Veins": "Internal iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": [
+				"Gracilis",
+				"Adductor brevis",
+				"Adductor longus",
+				"Obturator externus",
+				"Obturator internus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Superior gluteal veins": [
+        {
+            "Veins": "Superior gluteal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Coccygeus",
+				"Iliococcygeus",
+				"Pubococcygeus",
+				"Pubo-analis",
+				"Tensor fasciae latae",
+				"Gluteus medius",
+				"Gluteus minimus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Superior gluteal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Coccygeus",
+				"Iliococcygeus",
+				"Pubococcygeus",
+				"Pubo-analis",
+				"Tensor fasciae latae",
+				"Gluteus medius",
+				"Gluteus minimus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Inferior gluteal veins": [
+        {
+            "Veins": "Inferior gluteal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Coccygeus",
+				"Iliococcygeus",
+				"Pubococcygeus",
+				"Pubo-analis",
+				"Semitendinosus",
+				"Gluteus maximus",
+				"Gluteus medius",
+				"Gluteus minimus",
+				"Piriformis",
+				"Quadratus femoris"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Inferior gluteal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Coccygeus",
+				"Iliococcygeus",
+				"Pubococcygeus",
+				"Pubo-analis",
+				"Semitendinosus",
+				"Gluteus maximus",
+				"Gluteus medius",
+				"Gluteus minimus",
+				"Piriformis",
+				"Quadratus femoris"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Lateral sacral veins": [
+        {
+            "Veins": "Lateral sacral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Multifidus colli",
+				"Multifidus lumborum",
+				"Multifidus thoracis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "The lateral sacral veins are responsible for draining the sacrum and the coccyx. Specifically, they drain blood from the surfaces of the sacrum and coccyx. The muscles that are closely associated with the sacrum and coccyx include multifidus muscles. However, it's important to note that the lateral sacral veins primarily drain the bones (sacrum and coccyx) and the surrounding tissues."
+        },
+        {
+            "Veins": "Lateral sacral veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"Multifidus colli",
+				"Multifidus lumborum",
+				"Multifidus thoracis"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "The lateral sacral veins are responsible for draining the sacrum and the coccyx. Specifically, they drain blood from the surfaces of the sacrum and coccyx. The muscles that are closely associated with the sacrum and coccyx include multifidus muscles. However, it's important to note that the lateral sacral veins primarily drain the bones (sacrum and coccyx) and the surrounding tissues."
+        }
+    ],
+    "Internal pudendal vein": [
+        {
+            "Veins": "Internal pudendal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"External anal sphincter",
+				"Superior gemellus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        },
+        {
+            "Veins": "Internal pudendal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": [
+				"External anal sphincter",
+				"Superior gemellus"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        }
+    ],
+    "Deep dorsal vein of penis": [
+        {
+            "Veins": "Deep dorsal vein of penis",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "The deep dorsal vein of penis is connected visually to left and right internal pudendal vein in the atlas. However it is connectedted it to the internal iliac vein in the FC flatmap according to the structure heirachy in the app."
+        },
+        {
+            "Veins": "Deep dorsal vein of penis",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal iliac vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "nan",
+            "Note": "The deep dorsal vein of penis is connected visually to left and right internal pudendal vein in the atlas. However it is connectedted it to the internal iliac vein in the FC flatmap according to the structure heirachy in the app."
+        }
+    ],
+    "External iliac vein": [
+        {
+            "Veins": "External iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "External iliac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common iliac vein",
+            "Target FTU": "nan",
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Inferior epigastric vein": [
+        {
+            "Veins": "Inferior epigastric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External iliac vein",
+            "Target FTU": [
+				"Rectus abdominis",
+				"Pyramidalis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Inferior epigastric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External iliac vein",
+            "Target FTU": [
+				"Rectus abdominis",
+				"Pyramidalis"
+			],
+            "Laterality": "Left ",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Hepatic veins": [
+        {
+            "Veins": "Hepatic veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior vena cava (thoracic part)",
+            "Target FTU": "Liver",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Hepatic portal vein": [
+        {
+            "Veins": "Hepatic portal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "Liver",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "Top in the group of Hepatic portal vein"
+        }
+    ],
+    "Superior mesentric vein": [
+        {
+            "Veins": "Superior mesentric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Hepatic portal vein",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "It is Tributaries of hepatic portal vein in the hierachy, then the hepatic portal vein. In the FC flatmap, It is connected to the hepatic portal vein which is an actual vein."
+        }
+    ],
+    "Right gastro-omental vein": [
+        {
+            "Veins": "Right gastro-omental vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior mesentric vein",
+            "Target FTU": "Stomach",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Middle colic vein": [
+        {
+            "Veins": "Middle colic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior mesentric vein",
+            "Target FTU": "Lower GI tract",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+			"Note": "It drains blood from the transverse colon."
+        }
+    ],
+    "Right colic vein": [
+        {
+            "Veins": "Right colic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior mesentric vein",
+            "Target FTU": "Lower GI tract",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "It drains blood from the ascending colon and the right half of the transverse colon."
+        }
+    ],
+    "Splenic vein": [
+        {
+            "Veins": "Splenic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Hepatic portal vein",
+            "Target FTU": [
+				"Spleen",
+				"Pancreas",
+				"Stomach"
+			],
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "It supplies blood to the spleen, pancreas, and stomach. Spleen does not have vascular inlet. Additionally, it is Tributaries of hepatic portal vein in the hierachy, then the hepatic portal vein. In the FC flatmap, It is connected to the hepatic portal vein which is an actual vein.  "
+        }
+    ],
+    "Left gastro-omental vein": [
+        {
+            "Veins": "Left gastro-omental vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Splenic vein",
+            "Target FTU": "Stomach",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Inferior mesentric vein": [
+        {
+            "Veins": "Inferior mesentric vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Splenic vein",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Sigmoid veins": [
+        {
+            "Veins": "Sigmoid veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior mesentric vein",
+            "Target FTU": "Lower GI tract",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA",
+            "Note": "It drain blood from the sigmoid colon."
+        }
+    ],
+    "Superior vena cava": [
+        {
+            "Veins": "Superior vena cava",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Right brachiocephalic vein": [
+        {
+            "Veins": "Right brachiocephalic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior vena cava",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Internal thoracic vein": [
+        {
+            "Veins": "Internal thoracic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right brachiocephalic vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Right branch"
+        },
+        {
+            "Veins": "Internal thoracic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Left brachiocephalic vein",
+            "Target FTU": "nan",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Left branch"
+        }
+    ],
+    "Superior epigastric veins": [
+        {
+            "Veins": "Superior epigastric veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal thoracic vein",
+            "Target FTU": [
+				"Rectus abdominis",
+				"Transversus abdominis"
+				"Pyramidalis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Right branch"
+        },
+        {
+            "Veins": "Superior epigastric veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal thoracic vein",
+            "Target FTU": [
+				"Rectus abdominis",
+				"Transversus abdominis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Left branch"
+        }
+    ],
+    "Musculophrenic veins": [
+        {
+            "Veins": "Musculophrenic veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal thoracic vein",
+            "Target FTU": [
+				"diaphragm",
+				"Internal intercostals",
+				"Transversus thoracis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Right branch"
+        },
+        {
+            "Veins": "Musculophrenic veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal thoracic vein",
+            "Target FTU": [
+				"diaphragm",
+				"Internal intercostals",
+				"Transversus thoracis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Left branch"
+        }
+    ],
+    "Vertebral vein": [
+        {
+            "Veins": "Vertebral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right brachiocephalic vein",
+            "Target FTU": [
+				"Longus colli",
+				"Longus capitis",
+				"Rectus anterior capitis",
+				"Rectus lateralis capitis",
+				"Rectus posterior major capitis",
+				"Rectus posterior minor capitis",
+				"Obliquus superior capitis",
+				"Obliquus inferior capitis",
+				"Iliocostalis colli",
+				"Longissimus colli",
+				"Longissimus capitis",
+				"Spinalis thoracis",
+				"Spinalis colli",
+				"Spinalis capitis",
+				"Splenius colli",
+				"Intertransversarii",
+				"Multifidus colli",
+				"Multifidus thoracis",
+				"Interspinales colli"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Right branch"
+        },
+        {
+            "Veins": "Vertebral vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Left brachiocephalic vein",
+            "Target FTU": [
+				"Longus colli",
+				"Longus capitis",
+				"Rectus anterior capitis",
+				"Rectus lateralis capitis",
+				"Rectus posterior major capitis",
+				"Rectus posterior minor capitis",
+				"Obliquus superior capitis",
+				"Obliquus inferior capitis",
+				"Iliocostalis colli",
+				"Longissimus colli",
+				"Longissimus capitis",
+				"Spinalis thoracis",
+				"Spinalis colli",
+				"Spinalis capitis",
+				"Splenius colli",
+				"Intertransversarii",
+				"Multifidus colli",
+				"Multifidus thoracis",
+				"Interspinales colli"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Left branch"
+        }
+    ],
+    "Occipital vein": [
+        {
+            "Veins": "Occipital vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Vertebral vein",
+            "Target FTU": [
+				"Occipitalis",
+				"Epicranial aponeurosis",
+				"Posterior belly of digastric",
+				"Stylohyoid",
+				"Longissimus capitis",
+				"Splenius capitis",
+				"Splenius colli",
+				"Intertransversarii",
+				"Multifidus colli",
+				"Multifidus thoracis",
+				"Semispinalis colli",
+				"Interspinales colli"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Right branch",
+        },
+        {
+            "Veins": "Occipital vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Vertebral vein",
+            "Target FTU": [
+				"Occipitalis",
+				"Epicranial aponeurosis",
+				"Posterior belly of digastric",
+				"Stylohyoid",
+				"Longissimus capitis",
+				"Splenius capitis",
+				"Splenius colli",
+				"Intertransversarii",
+				"Multifidus colli",
+				"Multifidus thoracis",
+				"Semispinalis colli",
+				"Interspinales colli"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Left branch",
+        }
+    ],
+    "Left brachiocephalic vein": [
+        {
+            "Veins": "Left brachiocephalic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior vena cava",
+            "Target FTU": [
+				"Transverse arytenoid",
+				"Ary-epiglottic part of oblique arytenoid",
+				"External part of thyro-arytenoid",
+				"Thyro-epiglottic part of thyro-arytenoid",
+				"Posterior crico-arytenoid muscles",
+				"Lateral crico-arytenoid muscles",
+				"External abdominal oblique"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Left superior intercostal vein": [
+        {
+            "Veins": "Left superior intercostal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Left brachiocephalic vein",
+            "Target FTU": [
+				"Iliocostalis thoracis",
+				"Longissimus thoracis",
+				"Spinalis thoracis",
+				"Multifidus thoracis",
+				"Semispinalis thoracis",
+				"Rotatores",
+				"Interspinales thoracis",
+				"Serratus posterior superior",
+				"Levatores longi costarum",
+				"Levatores breves costarum",
+				"External intercostals",
+				"Internal intercostals",
+				"Innermost intercostals",
+				"External abdominal oblique",
+				"Internal abdominal oblique"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Are posterior intercostal veins are labled as superior intercostal vein?"
+        }
+    ],
+    "Azygos vein": [
+        {
+            "Veins": "Azygos vein ",
+            "Ontology ID": "nan",
+            "Parent vein": "Superior vena cava",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Right superior intercostal vein": [
+        {
+            "Veins": "Right superior intercostal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": [
+				"Iliocostalis thoracis",
+				"Longissimus thoracis",
+				"Spinalis thoracis",
+				"Multifidus thoracis",
+				"Semispinalis thoracis",
+				"Rotatores",
+				"Interspinales thoracis",
+				"Serratus posterior superior",
+				"Levatores longi costarum",
+				"Levatores breves costarum",
+				"External intercostals",
+				"Internal intercostals",
+				"Innermost intercostals",
+				"External abdominal oblique",
+				"Internal abdominal oblique"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Are posterior intercostal veins are labled as superior intercostal vein?"
+        }
+    ],
+    "Accessory hemi-azygos vein": [
+        {
+            "Veins": "Accessory hemi-azygos vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Right superior phrenic vein": [
+        {
+            "Veins": "Right superior phrenic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": "Diaphragm",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Right subcostal vein": [
+        {
+            "Veins": "Right subcostal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": [
+				"Interspinales thoracis",
+				"Serratus posterior inferior",
+				"External abdominal oblique",
+				"Internal abdominal oblique",
+				"Transversus abdominis",
+				"Quadratus lumborum"
+			],
+            "Laterality": "Right ",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Hemi-azygos vein": [
+        {
+            "Veins": "Hemi-azygos vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Left subcostal vein": [
+        {
+            "Veins": "Left subcostal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Hemi-azygos vein",
+            "Target FTU": [
+				"Interspinales thoracis",
+				"Serratus posterior inferior",
+				"External abdominal oblique",
+				"Internal abdominal oblique",
+				"Transversus abdominis",
+				"Quadratus lumborum"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Left ascending lumbar vein": [
+        {
+            "Veins": "Left ascending lumbar vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Hemi-azygos vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Right ascending lumbar vein": [
+        {
+            "Veins": "Right ascending lumbar vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Azygos vein ",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Right subclavian vein ": [
+        {
+            "Veins": "Right subclavian vein ",
+            "Ontology ID": "nan",
+            "Parent vein": "Right branchiocephalic vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "External jugular vein": [
+        {
+            "Veins": "External jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right subclavian vein ",
+            "Target FTU": [
+				"Platysma",
+				"Ascending part of trapezius",
+				"Descending part of trapezius",
+				"Transverse part of trapezius",
+				"Levator scapulae"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "External jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right subclavian vein ",
+            "Target FTU": [
+				"Platysma",
+				"Ascending part of trapezius",
+				"Descending part of trapezius",
+				"Transverse part of trapezius",
+				"Levator scapulae"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Suprascapular vein": [
+        {
+            "Veins": "Suprascapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": [
+				"Rhomboid major",
+				"Rhomboid minor",
+				"Supraspinatus",
+				"Infraspinatus",
+				"Subscapularis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Suprascapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": [
+				"Rhomboid major",
+				"Rhomboid minor",
+				"Supraspinatus",
+				"Infraspinatus",
+				"Subscapularis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Anterior jugular vein": [
+        {
+            "Veins": "Anterior jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": "Sternocleidomastoid",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Anterior jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": "Sternocleidomastoid",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Posterior division of retromandibular vein": [
+        {
+            "Veins": "Posterior division of retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Posterior division of retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": "gold diamond",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Posterior auricular vein": [
+        {
+            "Veins": "Posterior auricular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": [
+				"Extrinsic auricular muscles",
+				"Intrinsic auricular muscles"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Posterior auricular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "External jugular vein",
+            "Target FTU": [
+				"Extrinsic auricular muscles",
+				"Intrinsic auricular muscles"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Axillary vein": [
+        {
+            "Veins": "Axillary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right subclavian vein ",
+            "Target FTU": [
+				"Clavicular head of pectoralis major",
+				"Sternocostal head of pectoralis major",
+				"Abdominal part of pectoralis major",
+				"Pectoralis minor",
+				"Subclavius"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Axillary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Right subclavian vein ",
+            "Target FTU": [
+				"Clavicular head of pectoralis major",
+				"Sternocostal head of pectoralis major",
+				"Abdominal part of pectoralis major",
+				"Pectoralis minor",
+				"Subclavius"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Cephalic vein": [
+        {
+            "Veins": "Cephalic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Cephalic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Dorsal venous network of hand": [
+        {
+            "Veins": "Dorsal venous network of hand",
+            "Ontology ID": "nan",
+            "Parent vein": "Cephalic vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Dorsal venouse network of hand",
+            "Ontology ID": "nan",
+            "Parent vein": "Cephalic vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Dorsal digital veins of hand": [
+        {
+            "Veins": "Dorsal digital veins of hand",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous network of hand",
+            "Target FTU": [
+			"Lumbrical muscles of hand",
+				"Dorsal interossei muscles of hand",
+				"Palmar interossei muscles"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Dorsal digital veins of hand",
+            "Ontology ID": "nan",
+            "Parent vein": "Dorsal venous network of hand",
+            "Target FTU": [
+			"Lumbrical muscles of hand",
+				"Dorsal interossei muscles of hand",
+				"Palmar interossei muscles"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Lateral thoracic vein": [
+        {
+            "Veins": "Lateral thoracic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Clavicular head of pectoralis major",
+				"Sternocostal head of pectoralis major",
+				"Abdominal part of pectoralis major",
+				"Pectoralis minor",
+				"Serratus anterior"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Lateral thoracic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Clavicular head of pectoralis major",
+				"Sternocostal head of pectoralis major",
+				"Abdominal part of pectoralis major",
+				"Pectoralis minor",
+				"Serratus anterior"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Subscapular vein": [
+        {
+            "Veins": "Subscapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Subscapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Circumflex scapular vein": [
+        {
+            "Veins": "Circumflex scapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Subscapular vein",
+            "Target FTU": "Subscapularis",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Circumflex scapular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Subscapular vein",
+            "Target FTU": "Subscapularis",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Thoracodorsal vein": [
+        {
+            "Veins": "Thoracodorsal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Subscapular vein",
+            "Target FTU": [
+				"Latissimus dorsi",
+				"Teres major"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Thoracodorsal vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Subscapular vein",
+            "Target FTU": [
+				"Latissimus dorsi",
+				"Teres major"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Posterior circumflex humeral": [
+        {
+            "Veins": "Posterior circumflex humeral",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Long head of triceps brachii",
+				"Lateral head of triceps brachii"
+				"Medial head of triceps brachii",
+				"Clavicular part of deltoid",
+				"Acromial part of deltoid",
+				"Teres major",
+				"Teres minor"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        },
+        {
+            "Veins": "Posterior circumflex humeral",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Long head of triceps brachii",
+				"Lateral head of triceps brachii",
+				"Medial head of triceps brachii",
+				"Clavicular part of deltoid",
+				"Acromial part of deltoid",
+				"Teres major",
+				"Teres minor"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        }
+    ],
+    "Anterior circumflex humeral": [
+        {
+            "Veins": "Anterior circumflex humeral",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Clavicular part of deltoid",
+				"Acromial part of deltoid",
+				"Scapular spinal part of deltoid",
+				"Supraspinatus",
+				"Infraspinatus",
+				"Teres minor"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Anterior circumflex humeral",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Clavicular part of deltoid",
+				"Acromial part of deltoid",
+				"Scapular spinal part of deltoid",
+				"Supraspinatus",
+				"Infraspinatus",
+				"Teres minor"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Basilic veins": [
+        {
+            "Veins": "Basilic veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Basilic veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Median cubital vein": [
+        {
+            "Veins": "Median cubital vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Basilic veins",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Median cubital vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Basilic veins",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Median antebrachial vein": [
+        {
+            "Veins": "Median antebrachial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Median cubital vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No",
+            "Note": "nan"
+        },
+        {
+            "Veins": "Median antebrachial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Median cubital vein",
+            "Target FTU": "nan",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No",
+            "Note": "NA"
+        }
+    ],
+    "Brachial veins": [
+        {
+            "Veins": "Brachial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Coracobrachialis",
+				"Long head of biceps brachii",
+				"Short head of biceps brachii",
+				"Brachialis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Brachial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Axillary vein",
+            "Target FTU": [
+				"Coracobrachialis",
+				"Long head of biceps brachii",
+				"Short head of biceps brachii",
+				"Brachialis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Ulnar veins": [
+        {
+            "Veins": "Ulnar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Brachial veins",
+            "Target FTU": [
+				"Flexor digiti minimi of hand",
+				"Opponens digiti minimi of hand",
+				"Superficial head of pronator teres",
+				"Deep head of pronator teres",
+				"Flexor carpi radialis",
+				"Palmaris longus",
+				"Humeral head of flexor carpi ulnaris",
+				"Ulnar head of flexor carpi ulnaris",
+				"Humero-ulnar head of flexor digitorum superficialis",
+				"Radial head of Flexor digitorum superficialis",
+				"Pronator quadratus",
+				"Flexor digitorum profundus",
+				"Flexor pollicis longus",
+				"Extensor digitorum",
+				"Extensor digiti minimi",
+				"Anconeus",
+				"Supinator",
+				"Extensor indicis",
+				"Abductor pollicis longus",
+				"Extensor pollicis brevis",
+				"Extensor pollicis longus",
+				"Humeral head of extensor carpi ulnaris",
+				"Ulnar head of extensor carpi ulnaris"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Ulnar veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Brachial veins",
+            "Target FTU": [
+				"Flexor digiti minimi of hand",
+				"Opponens digiti minimi of hand",
+				"Superficial head of pronator teres",
+				"Deep head of pronator teres",
+				"Flexor carpi radialis",
+				"Palmaris longus",
+				"Humeral head of flexor carpi ulnaris",
+				"Ulnar head of flexor carpi ulnaris",
+				"Humero-ulnar head of flexor digitorum superficialis",
+				"Radial head of Flexor digitorum superficialis",
+				"Pronator quadratus",
+				"Flexor digitorum profundus",
+				"Flexor pollicis longus",
+				"Extensor digitorum",
+				"Extensor digiti minimi",
+				"Anconeus",
+				"Supinator",
+				"Extensor indicis",
+				"Abductor pollicis longus",
+				"Extensor pollicis brevis",
+				"Extensor pollicis longus",
+				"Humeral head of extensor carpi ulnaris",
+				"Ulnar head of extensor carpi ulnaris"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Superficial venous palmar arch": [
+        {
+            "Veins": "Superficial venous palmar arch",
+            "Ontology ID": "NA",
+            "Parent vein": "Ulnar veins",
+            "Target FTU": "Opponens pollicis",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Superficial venous palmar arch",
+            "Ontology ID": "nan",
+            "Parent vein": "Ulnar veins",
+            "Target FTU": "Opponens pollicis",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "palmar digital veins": [
+        {
+            "Veins": "palmar digital veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Superficial venous palmar arch",
+            "Target FTU": [
+				"Abductor digiti minimi of hand",
+				"Lumbrical muscles of hand"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "palmar digital veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Superficial venous palmar arch",
+            "Target FTU": "Abductor digiti minimi of hand",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Radial veins": [
+        {
+            "Veins": "Radial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Brachial veins",
+            "Target FTU": [
+				"Opponens pollicis",
+				"Superficial head of flexor pollicis brevis",
+				"Deep head of flexor pollicis brevis",
+				"Abductor pollicis brevis",
+				"Oblique head of adductor pollicis",
+				"Transverse head of adductor pollicis",
+				"Extensor carpi radialis longus",
+				"Extensor carpi radialis brevis",
+				"Brachioradialis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Radial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Brachial veins",
+            "Target FTU": [
+				"Opponens pollicis",
+				"Superficial head of flexor pollicis brevis",
+				"Deep head of flexor pollicis brevis",
+				"Abductor pollicis brevis",
+				"Oblique head of adductor pollicis",
+				"Transverse head of adductor pollicis",
+				"Extensor carpi radialis longus",
+				"Extensor carpi radialis brevis",
+				"Brachioradialis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Deep venous palmar arch": [
+        {
+            "Veins": "Deep venous palmar arch",
+            "Ontology ID": "nan",
+            "Parent vein": "Radial veins",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Deep venous palmar arch",
+            "Ontology ID": "nan",
+            "Parent vein": "Radial veins",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Left subclavian vein ": [
+        {
+            "Veins": "Left subclavian vein ",
+            "Ontology ID": "nan",
+            "Parent vein": "Left branchiocephalic vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Internal jugular vein": [
+        {
+            "Veins": "Internal jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "branchiocephalic vein",
+            "Target FTU": [
+				"Muscles of auditory ossicles",
+				"Geniohyoid",
+				"Scalenus anterior",
+				"Scalenus midius",
+				"Scalenus posterior",
+				"Palatopharyngeus",
+				"Stylopharyngeus",
+				"Inferior pharyngeal constrictor",
+				"Middle pharyngeal constrictor",
+				"Superior pharyngeal constrictor"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Internal jugular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "branchiocephalic vein",
+            "Target FTU": [
+				"Muscles of auditory ossicles",
+				"Geniohyoid",
+				"Scalenus anterior",
+				"Scalenus midius,",
+				"Scalenus posterior",
+				"Palatopharyngeus",
+				"Stylopharyngeus",
+				"Inferior pharyngeal constrictor",
+				"Middle pharyngeal constrictor",
+				"Superior pharyngeal constrictor"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Superior thyroid vein": [
+        {
+            "Veins": "Superior thyroid vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": [
+				"Sternohyoid",
+				"Sternothyroid",
+				"Thyrohyoid",
+				"Omohyoid",
+				"Inferior pharyngeal constrictor",
+				"Straight part of cricothyroid",
+				"Oblique part of cricothyroid",
+				"Transverse arytenoid",
+				"External part of thyro-arytenoid",
+				"Thyro-epiglottic part of thyro-arytenoid",
+				"Posterior crico-arytenoid muscles",
+				"Lateral crico-arytenoid muscles"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Superior thyroid vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": [
+				"Sternohyoid",
+				"Sternothyroid",
+				"Thyrohyoid",
+				"Omohyoid",
+				"Inferior pharyngeal constrictor",
+				"Straight part of cricothyroid",
+				"Oblique part of cricothyroid",
+				"Transverse arytenoid",
+				"External part of thyro-arytenoid",
+				"Thyro-epiglottic part of thyro-arytenoid",
+				"Posterior crico-arytenoid muscles",
+				"Lateral crico-arytenoid muscles"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Lingual vein": [
+        {
+            "Veins": "Lingual vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": [
+				"Genioglossus",
+				"Hyoglossus"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "nan"
+        },
+        {
+            "Veins": "Lingual vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": [
+				"Genioglossus",
+				"Hyoglossus"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "nan"
+        }
+    ],
+    "Common facial vein": [
+        {
+            "Veins": "Common facial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Common facial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Internal jugular vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Facial vein": [
+        {
+            "Veins": "Facial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common facial vein",
+            "Target FTU": "Buccinator",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Facial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common facial vein",
+            "Target FTU": "Buccinator",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Angular vein": [
+        {
+            "Veins": "Angular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Frontalis",
+				"Epicranial aponeurosis",
+				"Palpebral part of orbicularis oculi",
+				"Corrugator supercilii",
+				"Procerus",
+				"Nasalis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Angular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Frontalis",
+				"Epicranial aponeurosis",
+				"Palpebral part of orbicularis oculi",
+				"Corrugator supercilii",
+				"Procerus",
+				"Nasalis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Superior labial vein": [
+        {
+            "Veins": "Superior labial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Depressor septi nasi",
+				"Levator nasolabialis",
+				"Nasalis",
+				"Levator anguli oris",
+				"Levator labii superioris",
+				"Orbicularis oris",
+				"Risorius",
+				"Zygomaticus major",
+				"Zygomaticus minor"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Superior labial vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Depressor septi nasi",
+				"Levator nasolabialis",
+				"Nasalis",
+				"Levator anguli oris",
+				"Levator labii superioris",
+				"Orbicularis oris",
+				"Risorius",
+				"Zygomaticus major",
+				"Zygomaticus minor"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Inferior labial veins": [
+        {
+            "Veins": "Inferior labial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Depressor anguli oris",
+				"Depressor labii inferioris"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Inferior labial veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Depressor anguli oris",
+				"Depressor labii inferioris"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Submental vein": [
+        {
+            "Veins": "Submental vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Mentalis",
+				"Anterior belly of digastric",
+				"Mylohyoid"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Submental vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Facial vein",
+            "Target FTU": [
+				"Mentalis",
+				"Anterior belly of digastric",
+				"Mylohyoid"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Anterior division of retromandibular vein": [
+        {
+            "Veins": "Anterior division of retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common facial vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Anterior division of retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Common facial vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Retromandibular vein": [
+        {
+            "Veins": "Retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Anterior division of retromandibular vein",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Retromandibular vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Anterior division of retromandibular vein",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Superficial temporal veins": [
+        {
+            "Veins": "Superficial temporal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Retromandibular vein",
+            "Target FTU": [
+				"Temporoparietalis",
+				"Epicranial aponeurosis"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Superficial temporal veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Retromandibular vein",
+            "Target FTU": [
+				"Temporoparietalis",
+				"Epicranial aponeurosis"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Maxillary veins": [
+        {
+            "Veins": "Maxillary veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Retromandibular vein",
+            "Target FTU": [
+				"Superficial part of masseter",
+				"Deep part of masseter",
+				"Temporalis",
+				"Superior head of lateral pterygoid",
+				"Inferior head of lateral pterygoid",
+				"Medial pterygoid"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "No"
+        },
+        {
+            "Veins": "Maxillary veins",
+            "Ontology ID": "nan",
+            "Parent vein": "Retromandibular vein",
+            "Target FTU": [
+				"Superficial part of masseter",
+				"Deep part of masseter",
+				"Temporalis",
+				"Superior head of lateral pterygoid",
+				"Inferior head of lateral pterygoid",
+				"Medial pterygoid"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
+        }
+    ],
+    "Inferior petrosal sinus": [
+        {
+            "Veins": "Inferior petrosal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Cranial veins group are devided into two subgroups of sinuses and orbital veis. Since they are not actual veins, I have started from the Inferior petrosal sinus. "
+        },
+        {
+            "Veins": "Inferior petrosal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "nan",
+            "Target FTU": "nan",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Basilar venous plexus": [
+		{
+            "Veins": "Basilar venous plexus",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior petrosal sinus",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+	    "Anterior intercavernous sinus": [
+        {
+            "Veins": "Anterior intercavernous sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Basilar venous plexus",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Posterior intercavernous sinus": [
+        {
+            "Veins": "Posterior intercavernous sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Basilar venous plexus",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Cavernous sinus": [
+        {
+            "Veins": "Cavernous sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior petrosal sinus",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Cavernous sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Inferior petrosal sinus",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Sigmoid sinus": [
+        {
+            "Veins": "Sigmoid sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Top in the group"
+        },
+        {
+            "Veins": "Sigmoid sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "Top in the group"
+        }
+    ],
+    "Transverse sinus": [
+        {
+            "Veins": "Transverse sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Sigmoid sinus",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        },
+        {
+            "Veins": "Transverse sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Sigmoid sinus",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Superior petrosal sinus": [
+        {
+            "Veins": "Superior petrosal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Transverse sinus",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "synonym:Inferior ophthalmis vein"
+        },
+        {
+            "Veins": "Superior petrosal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Transverse sinus",
+            "Target FTU": "nan",
+            "Laterality": "nan",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "nan",
+            "Note": "nan"
+        }
+    ],
+    "Cofluence of sinuses": [
+        {
+            "Veins": "Cofluence of sinuses",
+            "Ontology ID": "nan",
+            "Parent vein": "Transverse sinus",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Inferior sagittal sinus": [
+        {
+            "Veins": "Inferior sagittal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Cofluence of sinuses",
+            "Target FTU": "gold diamond",
+            "Laterality": "Na",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Occipital sinus": [
+        {
+            "Veins": "Occipital sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Cofluence of sinuses",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Straight sinus": [
+        {
+            "Veins": "Straight sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Cofluence of sinuses",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Superior sagittal sinus": [
+        {
+            "Veins": "Superior sagittal sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "Cofluence of sinuses",
+            "Target FTU": "gold diamond",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "NA"
+        }
+    ],
+    "Superior ophthalmic vein": [
+        {
+            "Veins": "Superior ophthalmic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Cavernous sinus",
+            "Target FTU": [
+				"Levator palpebrae superioris",
+				"Superior tarsus",
+				"Inferior tarsus",
+				"Orbital part of orbicularis oculi",
+				"Superior rectus",
+				"Inferior rectus",
+				"Medial rectus",
+				"Lateral rectus",
+				"Superior oblique",
+				"Trochlea of superior oblique",
+				"Inferior oblique"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "part of orbital group veins but connected to cavernous sinus"
+        },
+        {
+            "Veins": "Superior ophthalmic vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Cavernous sinus",
+            "Target FTU": [
+				"Levator palpebrae superioris",
+				"Superior tarsus",
+				"Inferior tarsus",
+				"Orbital part of orbicularis oculi",
+				"Superior rectus",
+				"Inferior rectus",
+				"Medial rectus",
+				"Lateral rectus",
+				"Superior oblique",
+				"Trochlea of superior oblique",
+				"Inferior oblique"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "part of orbital group veins but connected to cavernous sinus"
+        }
+    ],
+    "Inferior ophthalmic vein": [
+        {
+            "Veins": "Inferior ophthalmis vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Cavernous sinus",
+            "Target FTU": [
+				"Levator palpebrae superioris",
+				"Superior tarsus",
+				"Inferior tarsus",
+				"Orbital part of orbicularis oculi",
+				"Superior rectus",
+				"Inferior rectus",
+				"Medial rectus",
+				"Lateral rectus",
+				"Superior oblique",
+				"Trochlea of superior oblique",
+				"Inferior oblique"
+			],
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "part of orbital group veins but connected to cavernous sinus"
+        },
+        {
+            "Veins": "Inferior ophthalmis vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Cavernous sinus",
+            "Target FTU": [
+				"Levator palpebrae superioris",
+				"Superior tarsus",
+				"Inferior tarsus",
+				"Orbital part of orbicularis oculi",
+				"Superior rectus",
+				"Inferior rectus",
+				"Medial rectus",
+				"Lateral rectus",
+				"Superior oblique",
+				"Trochlea of superior oblique",
+				"Inferior oblique"
+			],
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "part of orbital group veins but connected to cavernous sinus"
+        }
+    ],
+    "Right superior pulmonary vein": [
+        {
+            "Veins": "Right superior pulmonary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "It drains oxygenated blood into the left atrium of the heart."
+        }
+    ],
+    "Apical vein of right lung": [
+        {
+            "Veins": "Apical vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Anterior vein of right lung": [
+        {
+            "Veins": "Anterior vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Posterior vein of right lung": [
+        {
+            "Veins": "Posterior vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Lateral vein of right lung": [
+        {
+            "Veins": "Lateral vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Medial vein of right lung": [
+        {
+            "Veins": "Medial vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Right inferior pulmonary vein": [
+        {
+            "Veins": "Right inferior pulmonary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "It drains oxygenated blood into the left atrium of the heart."
+        }
+    ],
+    "Superior vein of right lung": [
+        {
+            "Veins": "Superior vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Superior basal vein of right lung": [
+        {
+            "Veins": "Superior basal vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Inferior basal vein of right lung": [
+        {
+            "Veins": "Inferior basal vein of right lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Right inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Right",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Left superior pulmonary vein": [
+        {
+            "Veins": "Left superior pulmonary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "It drains oxygenated blood into the left atrium of the heart."
+        }
+    ],
+    "Apicopoterior vein of left lung": [
+        {
+            "Veins": "Apicopoterior vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Left superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Anterior vein of left lung": [
+        {
+            "Veins": "Anterior vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Left superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Lingular vein of left lung": [
+        {
+            "Veins": "Lingular vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Left superior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Superior lingular vein of left lung": [
+        {
+            "Veins": "Superior lingular vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Lingular vein of left lung",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Inferior lingular vein of left lung": [
+        {
+            "Veins": "Inferior lingular vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Lingular vein of left lung",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Left inferior pulmonary vein": [
+        {
+            "Veins": "Left inferior pulmonary vein",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes",
+            "Note": "It drains oxygenated blood into the left atrium of the heart."
+        }
+    ],
+    "Superior vein of left lung": [
+        {
+            "Veins": "Superior vein of left lung",
+            "Ontology ID": "nan",
+            "Parent vein": "Left inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Superior basal vein of left lung\n": [
+        {
+            "Veins": "Superior basal vein of left lung\n",
+            "Ontology ID": "nan",
+            "Parent vein": "Left inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Inferior basal vein of left lung\n": [
+        {
+            "Veins": "Inferior basal vein of left lung\n",
+            "Ontology ID": "nan",
+            "Parent vein": "Left inferior pulmonary vein",
+            "Target FTU": "Lung",
+            "Laterality": "Left",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": "Yes"
+        }
+    ],
+    "Coronary sinus": [
+        {
+            "Veins": "Coronary sinus",
+            "Ontology ID": "nan",
+            "Parent vein": "NA",
+            "Target FTU": "NA",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA"
+        }
+    ],
+    "Great cardiac vein": [
+        {
+            "Veins": "Great cardiac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Coronary sinus",
+            "Target FTU": "Heart",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA"
+        }
+    ],
+    "Inferior vein of left ventricle": [
+        {
+            "Veins": "Inferior vein of left ventricle",
+            "Ontology ID": "nan",
+            "Parent vein": "Coronary sinus",
+            "Target FTU": "Heart",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA",
+            "Note": "It could be left ventricular vein or marginal vein or anterior cardiac veins?"
+        }
+    ],
+    "Inferior vein of left ventricle (//posterior)": [
+        {
+            "Veins": "Inferior vein of left ventricle (//posterior)",
+            "Ontology ID": "nan",
+            "Parent vein": "Coronary sinus",
+            "Target FTU": "Heart",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA",
+            "Note": "Is it posterior vein of the left ventricle?"
+        }
+    ],
+    "Middle cardiac vein": [
+        {
+            "Veins": "Middle cardiac vein",
+            "Ontology ID": "nan",
+            "Parent vein": "Coronary sinus",
+            "Target FTU": "Heart",
+            "Laterality": "NA",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA"
+        }
+    ],
+    "????????": [
+        {
+            "Veins": "????????",
+            "Ontology ID": "nan",
+            "Parent vein": "Coronary sinus",
+            "Target FTU": "nan",
+            "Laterality": "nan",
+            "Added in FC flatmap": "Yes",
+            "Duplicated in FC flatmap": " NA",
+            "Note": "It could be small cardiac vein. I used this term instead of unknown ??????? label."
+        }
+    ]
+}

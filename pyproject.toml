@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "fc-adan-alignment"
+version = "0.1.0"
+description = "Mapping FC map to Adan and vice versa."
+authors = ["napakalas <yuda.munarko@gmail.com>"]
+license = "Apache License"
+readme = "README.md"
+packages = [{include = "alignments"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.3"
+notebook = "^6.4.12"
+jupyterlab = "^3.5.0"
+anatomy-lookup = {url = "https://github.com/napakalas/anatomy-lookup/releases/download/v0.0.5a/anatomy_lookup-0.0.5-py3-none-any.whl"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
